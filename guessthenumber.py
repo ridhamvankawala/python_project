@@ -9,5 +9,5 @@ while True:
         print("Too Low!")
     else:
         print("Correct Guess")
-        print(f"Attempt Use is ",attempt)
+        print("Attempt Use is ",attempt)
         break
